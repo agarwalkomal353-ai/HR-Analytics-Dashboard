@@ -106,7 +106,7 @@ Employees with a work-life balance rating of 1 had an observed attrition rate of
 
 An interactive HTML dashboard was created to visualize the major findings from the analysis.
 
-*Live Dashboard:* [Add your Live Dashboard Link]
+*Live Dashboard:* [https://agarwalkomal353-ai.github.io/HR-Analytics-Dashboard/]
 
 ---
 
