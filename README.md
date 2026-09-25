@@ -137,7 +137,7 @@ These findings represent patterns observed in the dataset and should not be inte
 
 A concise professional report summarizing the analysis and key insights is included in this repository.
 
-*Report:* [View Report]()
+*Report:* [View Report](https://github.com/agarwalkomal353-ai/HR-Analytics-Dashboard/blob/0ed60d10ba04ad09b9bc3fb9cfee6e6a9b66cb38/HR_Employee_Attrition_Professional_Report.pdf)
 
 ---
 
